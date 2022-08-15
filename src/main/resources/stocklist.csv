@@ -1,0 +1,13 @@
+type,series,model,diagonal,screen type,country,price
+
+Telephone,S-1,Samsung,none,QLED,none,100
+Telephone,S-2,Samsung,none,QLED,none,200
+Telephone,S-3,Samsung,none,QLED,none,300
+Telephone,S-4,Samsung,none,QLED,none,400
+Telephone,S-5,Samsung,none,QLED,none,500
+
+Television,RTI-1,none,21,LED,China,1000
+Television,RTI-2,none,22,LED,China,1500
+Television,RTI-3,none,23,LED,China,2000
+Television,RTI-4,none,24,LED,China,2500
+Television,RTI-5,none,25,LED,China,3000
